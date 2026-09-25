@@ -1,113 +1,243 @@
-<h1 align="center"><b>Hi, I'm Jeremías San Martín</b></h1>
+<h1 align="center">Hola, soy Jeremías San Martín 👋</h1>
+
+<p align="center">
+  <b>Desarrollador de Software | Técnico en Programación</b>
+</p>
+
+<p align="center">
+  Desarrollo aplicaciones web, móviles y de escritorio, con interés en seguir aprendiendo y construyendo soluciones de software.
+</p>
+
 <p align="center">
   <a href="https://github.com/JeremiasSanMartin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=80&lines=Software+Developer;Programming+Technician;Software+Development+Graduate;Always+learning+new+technologies">
+    <img src="https://img.shields.io/badge/GitHub-JeremiasSanMartin-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jeremias-san-martin-484b9536a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeremías%20San%20Martín-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<br>
-About me
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-Técnico en Programación y Técnico Universitario en Desarrollo de Software.
-Desarrollo aplicaciones web, móviles y de escritorio.
-Experiencia trabajando en proyectos individuales y en equipo.
-Interesado en desarrollo de software, bases de datos y buenas prácticas.
-Trabajo con control de versiones utilizando Git y GitHub.
-Experiencia con aplicaciones CRUD, modelado UML y análisis de requisitos.
-Actualmente enfocado en seguir desarrollando proyectos y ampliando mis conocimientos.
-<br><br>
+
 ---
-<br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
-<br>
-Languages
-<p align="left">
-![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## 👨‍💻 Sobre mí
+
+Soy **Técnico en Programación** y **Técnico en Desarrollo de Software**, con experiencia en proyectos académicos, personales y de pasantía.
+
+Me interesa el desarrollo de software y la creación de aplicaciones que permitan resolver problemas reales. He trabajado tanto de manera individual como en equipos, utilizando herramientas de control de versiones y organización de proyectos.
+
+Tengo experiencia en:
+
+* Desarrollo de aplicaciones móviles.
+* Desarrollo de aplicaciones de escritorio.
+* Desarrollo web.
+* Aplicaciones CRUD.
+* Bases de datos SQL y NoSQL.
+* Análisis y documentación de requisitos.
+* Modelado UML.
+* Arquitectura en capas.
+* Control de versiones con Git y GitHub.
+* Trabajo colaborativo y gestión de proyectos.
+* Testing y buenas prácticas de desarrollo.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 💻 Lenguajes de programación
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
-Databases
-<p align="left">
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🌐 Desarrollo web
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
-Tools
-<p align="left">
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Office_365-%23D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+### 🗄️ Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-Other knowledge
-<p align="left">
-![CRUD](https://img.shields.io/badge/CRUD-Applications-%23007ACC.svg?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-Modeling-%23555555.svg?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web-Development-%2361DAFB.svg?style=for-the-badge)
+
+### 🔧 Herramientas y tecnologías
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Gantt-0052CC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge">
 </p>
-<br>
+
+### 📚 Otros conocimientos
+
+<p>
+  <img src="https://img.shields.io/badge/CRUD-Aplicaciones-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UML-Modelado-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Análisis_de_Requisitos-6C757D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Testing-6C757D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Redes-6C757D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hardware-6C757D?style=for-the-badge">
+</p>
+
 ---
-<br>
-Featured Projects
-Taskify
-Web application developed as the final project of the Software Development degree.
-Task management platform designed for collaborative work, featuring Administrator and Collaborator roles and a points-and-rewards gamification system.
-Main features:
-Task creation, modification and tracking.
-Task approval and rejection.
-Action history.
-Points and rewards system.
-Relational database using MySQL / MariaDB.
-Stored procedures and data integrity rules.
-UML modeling.
-Layered architecture.
-Git/GitHub version control.
-Team organization using Trello.
-Jobsito
-Mobile application developed during a technical internship for job searching.
-Developed using Kotlin, Android Studio, Firebase and Git/GitHub, participating from interface design through the implementation of application features.
-The project also included a website and activities related to its presentation and simulated launch.
+
+## 🚀 Proyectos destacados
+
+### 📋 Taskify
+
+**Aplicación web para gestión colaborativa de tareas**
+
+Proyecto final de la **Tecnicatura en Desarrollo de Software**, desarrollado en equipo.
+
+Taskify es un sistema orientado a la gestión de tareas colaborativas, incorporando diferentes roles de usuario y un sistema de gamificación basado en puntos y recompensas.
+
+**Principales funcionalidades:**
+
+* Creación, modificación y seguimiento de tareas.
+* Roles de **Administrador** y **Colaborador**.
+* Aprobación y rechazo de tareas.
+* Historial de acciones.
+* Sistema de puntos.
+* Sistema de recompensas y canje.
+* Gestión de información mediante base de datos relacional.
+
+**Aspectos técnicos:**
+
+* MySQL / MariaDB.
+* Procedimientos almacenados.
+* Relaciones y reglas de integridad.
+* Arquitectura en capas.
+* Modelado UML.
+* Análisis de requisitos funcionales y no funcionales.
+* Documentación técnica.
+* Git y GitHub.
+* Organización mediante Trello.
+* Enfoque en seguridad, rendimiento, escalabilidad y mantenibilidad.
+
 ---
-<br>
-Education
-Tecnicatura en Desarrollo de Software  
-Universidad Provincial de Ezeiza — 2023–2025
-Técnico en Programación  
-Escuela de Educación Técnica N.º 1 — 2016–2022
+
+### 📱 Jobsito
+
+**Aplicación móvil para búsqueda de empleo**
+
+Proyecto desarrollado durante una **pasantía técnica en Calipso**, trabajando en equipo desde el diseño de la interfaz hasta la implementación de funcionalidades.
+
+**Tecnologías utilizadas:**
+
+* Kotlin.
+* Android Studio.
+* Firebase.
+* Git / GitHub.
+
+Además del desarrollo de la aplicación móvil, participé en la creación de una página web relacionada con el proyecto y en actividades de presentación y simulación de lanzamiento.
+
 ---
-<br>
-Languages
-Spanish — Native
-English — B1
-<br>
+
+### 💻 Proyectos personales y académicos
+
+Desde 2022 desarrollo diferentes proyectos personales y académicos para continuar practicando y ampliando mis conocimientos.
+
+Entre ellos se encuentran:
+
+* Aplicaciones móviles desarrolladas con Kotlin.
+* Sistemas de escritorio desarrollados en C y C#.
+* Proyectos en C++.
+* Aplicaciones web con HTML, CSS y PHP.
+* Sistemas CRUD.
+* Aplicaciones para gestión de stock.
+* Catálogos de productos.
+* Ejercicios de refactorización.
+* Proyectos utilizando bases de datos SQL y NoSQL.
+
+Los proyectos son gestionados mediante **Git y GitHub**, aplicando control de versiones y buenas prácticas de desarrollo.
+
 ---
-<br>
-GitHub Stats
-<br>
-<div align="center">
-<a href="https://github.com/JeremiasSanMartin">
-<img src="https://github-readme-stats.vercel.app/api?username=JeremiasSanMartin&show_icons=true&hide_border=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasSanMartin&layout=compact&hide_border=true" height="170"/>
-</a>
-</div>
-<br>
-<br>
+
+## 🎓 Formación
+
+### Tecnicatura en Desarrollo de Software
+
+**Universidad Provincial de Ezeiza**
+2023 – 2025 · Finalizada
+
+Formación en:
+
+* Desarrollo de software.
+* Lenguajes de programación.
+* Testing.
+* Ingeniería de datos.
+* Análisis de requisitos.
+* Modelado UML.
+* Bases de datos.
+* Trabajo colaborativo con Git y GitHub.
+
+### Técnico en Programación
+
+**Escuela Secundaria de Educación Técnica N.º 1 — Esteban Echeverría**
+2016 – 2022 · Finalizada
+
+Formación en:
+
+* Desarrollo de aplicaciones móviles.
+* Sistemas CRUD.
+* Bases de datos SQL y NoSQL.
+* Gestión de bases de datos.
+
 ---
-<br>
-Let's Connect
-<br>
-<a href="mailto:Jeresanmartin820@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Jeresanmartin820%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/JeremiasSanMartin">
-<img src="https://img.shields.io/badge/GitHub-JeremiasSanMartin-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<br>
-<br>
+
+## 🌎 Idiomas
+
+**Español:** Nativo
+
+**Inglés:** B1
+
 ---
+
+## 🤝 Habilidades
+
+* Trabajo en equipo.
+* Adaptabilidad.
+* Resolución de problemas.
+* Organización de proyectos.
+* Comunicación y colaboración.
+* Aprendizaje continuo.
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="mailto:Jeresanmartin2004@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/JeremiasSanMartin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/jeremias-san-martin-484b9536a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <i>Always learning, building and improving.</i>
+  <i>Siempre aprendiendo, desarrollando y construyendo nuevos proyectos.</i>
 </p>
